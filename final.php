@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?phprequire '../html_head.php'; ?>
+<?php require '../html_head.php'; ?>
 <body onload="loadDoc()">
     <div class="container">
     		<div class="row">
